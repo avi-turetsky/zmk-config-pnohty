@@ -117,7 +117,7 @@
 // |     |  Z  |  X  |  C  |  D  |  V  | |  K  |  H  |  ,  |  .  |BKSPC|     |
 //                   | OPT |-SYM-| SPC | | RET |-NUM-| CMD |
                         bindings = <
-   &none &kp B &kp L &kp D &kp W &kp Z &kp J &kp F   &kp O     &kp U   &kp J    &none
+   &none &kp B &kp L &kp D &kp W &kp Z &none &kp F   &kp O     &kp U   &kp J    &none
    &none &kp N &kp R &kp T &kp S &kp G &kp Y &kp H   &kp A     &kp E   &kp I     &none
    &none &kp Q &kp X &kp M &kp C &kp V &kp K &kp P   &kp COMMA &kp DOT &kp BSPC &none
             &kp LALT &mo SYM &kp SPACE &kp RET &mo NUM &kp RCMD
